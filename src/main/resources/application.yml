@@ -1,0 +1,12 @@
+spring:
+  auth:
+    username: raf
+    password: zas
+
+  profiles:
+    active: local
+  #active: prod
+
+server:
+  error:
+    include-message: always
